@@ -1,0 +1,6 @@
+{
+    "name":        "bubble/queryfier",
+    "description": "Magento Suffix Static Files",
+    "type":        "magento-module",
+    "license":     "MIT"
+}
